@@ -1,0 +1,2 @@
+1. Learn Git
+2. Create own project
